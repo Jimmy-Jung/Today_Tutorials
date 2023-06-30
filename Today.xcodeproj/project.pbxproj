@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5500339E2A4EB0C200FDF528 /* Date + Today.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5500339D2A4EB0C200FDF528 /* Date + Today.swift */; };
 		555BC6AC2A497C74002781B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555BC6AB2A497C74002781B6 /* AppDelegate.swift */; };
 		555BC6AE2A497C74002781B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555BC6AD2A497C74002781B6 /* SceneDelegate.swift */; };
 		555BC6B02A497C74002781B6 /* ReminderListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555BC6AF2A497C74002781B6 /* ReminderListViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5500339D2A4EB0C200FDF528 /* Date + Today.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Date + Today.swift"; sourceTree = "<group>"; };
 		555BC6A82A497C74002781B6 /* Today.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Today.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		555BC6AB2A497C74002781B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		555BC6AD2A497C74002781B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				555BC6C02A497D2B002781B6 /* Reminder.swift */,
+				5500339D2A4EB0C200FDF528 /* Date + Today.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				555BC6B02A497C74002781B6 /* ReminderListViewController.swift in Sources */,
+				5500339E2A4EB0C200FDF528 /* Date + Today.swift in Sources */,
 				555BC6AC2A497C74002781B6 /* AppDelegate.swift in Sources */,
 				555BC6AE2A497C74002781B6 /* SceneDelegate.swift in Sources */,
 				555BC6C12A497D2B002781B6 /* Reminder.swift in Sources */,
