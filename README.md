@@ -11,7 +11,8 @@ Today의 목표는 사용자가 그날의 작업에 집중할 수 있도록 도�
 
 MVC 디자인 패턴을 사용해 앱을 구조화
 
-<img width="402" alt="Untitled" src="https://github.com/Jimmy-Jung/Today-Tutorials/assets/115251866/f9305660-427d-49c7-bf51-62a2a4add6e3">
+<img width="393" alt="image" src="https://github.com/Jimmy-Jung/Today_Tutorials/assets/115251866/f02a6fb2-d3e1-4fa0-9fe9-72a2da24a682">
+
 
 
 iOS13부터 사용 가능한 diffable Datasource를 사용해 ****Advances in UI Data Sources를 제공****
@@ -37,7 +38,8 @@ Snapshot을 통해 현재 UI와 바뀐 UI상태를 비교하고 apply()메서드
 
 ### 3. SampleData를 #if DEBUG를 사용해  테이트 데이터 제공
 
-<img width="352" alt="Untitled 2" src="https://github.com/Jimmy-Jung/Today-Tutorials/assets/115251866/8fc70f85-b14c-4de6-9909-0506304226db">
+<img width="552" alt="image" src="https://github.com/Jimmy-Jung/Today_Tutorials/assets/115251866/12dec20a-fb81-41a9-a153-b0450b9acc62">
+
 
 ### 4. ****컬렉션을 List로 구성****
 
@@ -65,5 +67,6 @@ dataSource.apply(snapshot)
 ```
 
 ### 결과
-<img width="329" alt="image" src="https://github.com/Jimmy-Jung/Today-Tutorials/assets/115251866/8be391ea-c760-445f-90a3-aab62c7dfa67">
+<img width="320" alt="image" src="https://github.com/Jimmy-Jung/Today_Tutorials/assets/115251866/5cd66f90-1c89-412e-a168-255460178e32">
+
 
